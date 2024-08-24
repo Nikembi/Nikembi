@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on [eTickets](https://github.com/Nikembi/etickets-MVC)
+- 🔭 I’m currently working on [eTickets](https://github.com/Nikembi/etickets-MVC) &
       [Oasistrack](https://github.com/colburncodes/oasistrack)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
