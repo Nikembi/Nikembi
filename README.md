@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Nikembi</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Software Engineer with an entrepreneur mindset</h3>
 
 
 - 🔭 I’m currently working on [eTickets](https://github.com/Nikembi/etickets-MVC) &
