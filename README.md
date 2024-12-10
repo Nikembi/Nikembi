@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Nikembi</h1>
 <h3 align="center">A Fullstack Engineer, With an entrepreneurial mindset</h3>
 
-- 🔭 I’m currently working on [eTickets](https://github.com/Nikembi/etickets-MVC) &
+- 🔭 I’m currently working on FundingApp(https://github.com/Nikembi/FundingApp) &
       [Oasistrack](https://github.com/colburncodes/oasistrack)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
