@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Nikembi</h1>
-<h3 align="center">A Software Engineer with an entrepreneur mindset</h3>
-
+<h3>A Fullstack Engineer, With an entrepreneurial mindset</h3>
 
 - 🔭 I’m currently working on [eTickets](https://github.com/Nikembi/etickets-MVC) &
       [Oasistrack](https://github.com/colburncodes/oasistrack)
